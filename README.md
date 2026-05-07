@@ -1,2 +1,3 @@
-# RFID-Door-Lock
-Arduino RFID smart door lock project
+# RFID Door Lock
+
+An Arduino-based RFID security system using RC522 and servo motor.
